@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+
+# Build outputs and caches
+dist/
+build/
+coverage/
+.cache/
+.sass-cache/
+
+# Environment files
+.env
+.env.*
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
